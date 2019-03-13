@@ -5,7 +5,7 @@ revealOptions:
     transition: 'slide'
 ---
 
-<img src='ionic.png' style="width: 20%;"/>
+<img src='assets/ionic.png' style="width: 20%;"/>
 ### Introdução ao IONIC
 
 Autor: Andrew Ribeiro
@@ -21,15 +21,15 @@ Autor: Andrew Ribeiro
 ---
 
 ### O que é IONIC?
-<img src='ionic.png' style="width: 40%;"/>
+<img src='assets/ionic.png' style="width: 40%;"/>
 
 
 ----
-<!-- .slide: data-background="iphone-smartphone.jpeg"-->
+<!-- .slide: data-background="assets/iphone-smartphone.jpeg"-->
 ## Um framework de desenvolvimento mobile
 
 ----
-<!-- .slide: data-background="iphone-smartphone.jpeg"-->
+<!-- .slide: data-background="assets/iphone-smartphone.jpeg"-->
 
 **De acordo com documentação oficial**
 > _Ionic Framework é um kit de desenvolvimento open source para a criação de aplicações mobile e desktop performaticas e de alta-qualidade usando tecnologias web (HTML, CSS, and JavaScript)._
@@ -37,40 +37,40 @@ Autor: Andrew Ribeiro
 ---
 
 ### História
-<img style="width: 60%; opacity: 0.7;" src="history.png"/>
+<img style="width: 60%; opacity: 0.7;" src="assets/history.png"/>
 
 ----
-<!-- .slide: data-background="drifty.jpg" -->
+<!-- .slide: data-background="assets/drifty.jpg" -->
 #### Criada em 2013 pela empresa ***Drifty***.
 
-<div style="display:flex;align-items: center; justify-content: center;"><img src="codiqa.png" style="width: 5%;"/> &nbsp;Codiqa</div> <!-- .element: class="fragment" -->
-<div style="display:flex;align-items: center; justify-content: center;"><img src="jetstrap.png" style="width: 5%;"/>&nbsp;Jetstrap</div> <!-- .element: class="fragment" -->
+<div style="display:flex;align-items: center; justify-content: center;"><img src="assets/codiqa.png" style="width: 5%;"/> &nbsp;Codiqa</div> <!-- .element: class="fragment" -->
+<div style="display:flex;align-items: center; justify-content: center;"><img src="assets/jetstrap.png" style="width: 5%;"/>&nbsp;Jetstrap</div> <!-- .element: class="fragment" -->
 
 ----
 
-<!-- .slide: data-background-video="codiqa.webm" -->
+<!-- .slide: data-background-video="assets/codiqa.webm" -->
 
-<img src="codiqa.png" style="width:20%"/>
+<img src="assets/codiqa.png" style="width:20%"/>
 
 ## CODIQA
 
 ----
 
-<!-- .slide: data-background-video="jetstrap.webm" -->
+<!-- .slide: data-background-video="assets/jetstrap.webm" -->
 
-<img src="jetstrap.png" style="width:20%"/>
+<img src="assets/jetstrap.png" style="width:20%"/>
 
 ## JETSTRAP
 
 ----
 
-<!-- .slide: data-background="customers.jpg" -->
+<!-- .slide: data-background="assets/customers.jpg" -->
 
 ### Feedback de clientes
 
 ----
 
-<!-- .slide: data-background="ionic_2013.png" -->
+<!-- .slide: data-background="assets/ionic_2013.png" -->
 
 Em Novembro de 2013 a versão Alpha foi lançada. <!-- .element: class="fragment" -->
 
@@ -84,7 +84,7 @@ Em 2016, diversos lançamentos da versão 2.0. <!-- .element: class="fragment" -
 
 ----
 
-<!-- .slide: data-background="ionic_2013.png" -->
+<!-- .slide: data-background="assets/ionic_2013.png" -->
 
 Janeiro de 2019
 
@@ -94,18 +94,18 @@ Janeiro de 2019
 
 ### Arquitetura
 
-<img style="width: 26%" src="layers.png"/>
+<img style="width: 26%" src="assets/layers.png"/>
 
 ----
 
-<img src="architecture.png" style="width: 50%"/>
+<img src="assets/architecture.png" style="width: 50%"/>
 
 ----
 
-<img src="IonicPortfolioArchitecture.jpg"/>
+<img src="assets/IonicPortfolioArchitecture.jpg"/>
 
 ---
 
 ### Como funciona?
 
-<img src="engine.png" style="width: 30%"/>
+<img src="assets/engine.png" style="width: 30%"/>
